@@ -1,5 +1,5 @@
 {
-  "name": "@itsukichan/baileys",
+  "name": "@malzmc/baileys",
   "version": "7.3.2",
   "description": "WhatsApp API Modification By Itsukiichan",
   "keywords": [
@@ -18,7 +18,7 @@
     "url": "git+ssh://git@github.com/Itsukichann/Baileys.git"
   },
   "license": "MIT",
-  "author": "Itsukichann",
+  "author": "malzmc",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
